@@ -36,3 +36,6 @@ This is the setup instruction for react native.
 5. Open cms as Administrator
    1. Run command
       npm install –g react-native-cli
+
+6. Setup first react native project 
+   1. npx react-native init <ProjectName>
