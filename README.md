@@ -39,3 +39,4 @@ This is the setup instruction for react native.
 
 6. Setup first react native project 
    1. npx react-native init <ProjectName>
+   2. (if above not working properly) npx react-native init <ProjectName> --verbose
